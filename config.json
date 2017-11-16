@@ -1,0 +1,12 @@
+{
+    "local-address": "127.0.0.1",
+    "local-port": 53,
+    "dns_address": "8.8.8.8",
+    "dns-port": 53,
+    "blacklist": [
+        "yandex.ru",
+        "ya.ru",
+        "bing.com",
+        "mail.ru"
+  ]
+}
